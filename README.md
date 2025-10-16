@@ -1,4 +1,4 @@
-# Intrusion Detection System using Neural Network wiht KDD-99 Dataset
+# Intrusion Detection System using Neural Network with KDD-99 Dataset
 
 This project implements an Intrusion Detection System (IDS) using the well-known KDD-99 dataset and a multi-layer Neural Network. The system aims to classify network traffic.
 
