@@ -21,8 +21,8 @@ To run this project, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
-    cd YOUR_REPOSITORY
+    git clone https://github.com/ErfanRezaei/Intrusion-Detection-System
+    cd Intrusion-Detection-System
     ```
 
 2.  **Install the required libraries:**
@@ -49,7 +49,7 @@ Execute the cells in the notebook sequentially to see the results.
 
 The following matrix illustrates the model's performance in classifying different types of attacks and normal traffic:
 
-![Confusion Matrix](assets/Sample.PNG.png)
+![Confusion Matrix](assets/Sample.PNG)
 
 As shown in the matrix, the model performs exceptionally well in detecting common attacks like `smurf` and `neptune`, as well as `normal` traffic.
 
